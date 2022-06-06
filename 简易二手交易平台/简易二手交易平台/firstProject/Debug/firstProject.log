@@ -1,0 +1,3 @@
+﻿  RegisterAndEnter.cpp
+C:\Users\pity\source\repos\firstProject\firstProject\RegisterAndEnter.cpp(644,14): warning C4102: “case3”: 未引用的标签
+  firstProject.vcxproj -> C:\Users\pity\source\repos\firstProject\Debug\firstProject.exe
