@@ -1,5 +1,0 @@
-用户ID    用户名                        密码                联系方式            地址                                    钱包余额   评价数量 用户评价                                 是否处罚中
-U00001     pity                           abc6666              34131                dfdasfdasf                               840.0 1  0 
-U00002     amy                            aaaa                 343431               dafcadf                                  295.0 1  0 
-U00003     mark                           mmmm                 434343               dfdasfadsfda                             95.0  1  0 
-U00004     tom                            tttt                 fadfdfdsaf           dfsfdvdsfcdf                             282.0 1  0 
